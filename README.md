@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليل الغرام خذني إلى عينيها
+> في صمت العيون أسرار الحنين
+> أشواق قلبي تسري بين يديها
+> ونار الهوى تحرقني كل حين
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
