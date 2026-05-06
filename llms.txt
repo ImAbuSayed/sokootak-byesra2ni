@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sokootak-byesra2ni/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get a Licensing Quote for Sokootak Byesra2ni](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Sync Licensing for Sokootak Byesra2ni](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
