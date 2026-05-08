@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sokootak Byesra2ni
+
+This log tracks the cryptographic history and versioning for the song **Sokootak Byesra2ni** (sokootak-byesra2ni).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T21:24:05.260606 | `v1` | `88392d141626ab84a8879014de0ef7edf91c13eaca6e7fb37e9bee38c9b2c476` | `74e853624acbe1a9fff45503458fda9a04ce3eae8288fa857bcb6bb50473323d` | `2026-05-08_sokootak-byesra2ni-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
